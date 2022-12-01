@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me twitter or instagram @victrmel
-- \
 
 <!---
 victrmel/victrmel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
